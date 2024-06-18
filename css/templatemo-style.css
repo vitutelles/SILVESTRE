@@ -371,15 +371,6 @@ video::-webkit-media-controls {
   letter-spacing: 0.5px;
 }
 
-.third-slide .feature-list ul {
-  padding: 0;
-  margin: 0;
-}
-
-.third-slide .feature-list ul li {
-  display: block;
-}
-
 .third-content {
   padding: 30px;
 }
