@@ -413,47 +413,6 @@ video::-webkit-media-controls {
 }
 
 
-/*
-=======================
------ FOURTH SLIDE ----
-=======================
-*/
-
-.fourth-slide {
-  text-align: center;
-  background-color: #fff;
-  width: 100%;
-}
-
-.fourth-slide .heading h1 {
-  margin-top: 30px;
-  font-size: 38px;
-  text-transform: uppercase;
-  color: #fff;
-  font-weight: 900;
-  letter-spacing: 1px;
-}
-
-.fourth-slide .heading span {
-  font-size: 16px;
-  text-transform: uppercase;
-  color: #f705ff;
-  font-weight: 300;
-  letter-spacing: 0.5px;
-}
-
-.fourth-content {
-  padding: 15px 30px;
-}
-
-.fourth-content .project-item {
-  margin: 15px 0px;
-}
-
-.fourth-content img {
-  width: 100%;
-  overflow: hidden;
-}
 
 
 /*
