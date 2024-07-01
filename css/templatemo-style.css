@@ -55,6 +55,20 @@ video::-webkit-media-controls {
   text-decoration: none;
   border: 1px solid transparent;
 }
+.row2 a {
+  display: inline-flexblock;
+  background-color: #ffbb05;
+  color: #343434;
+  font-size: 30px;
+  background-image: url(/img/contact-icon2.png);
+  background-position: center left 8px;
+  background-repeat: no-repeat;
+  padding: 12px 50px;
+  border-radius: 10px;
+  text-decoration: none;
+  border: 1px solid transparent;
+  
+}
 
 .primary-button a:hover {
   background-color: transparent;
