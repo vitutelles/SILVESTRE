@@ -937,4 +937,20 @@ body.lb-disable-scrolling {
 
 
 }
+@media(max-width:798px){
+ .logoagua img {
+  width: 100%;
+  padding-top: 30% ;
 
+ }
+
+
+}
+@media(max-width:798px){
+  .row2 a {
+    
+    font-size: 13px;
+
+  }
+
+}
