@@ -1,6 +1,6 @@
 # SILVESTRE PETSHOP
 
-### Template SILVESTRE PETSHOP, created/manipulated for study purposes.
+### SILVESTRE PETSHOP model, created/manipulated for study and work purposes.
 
 #HTML
 #JAVASCRIPT
